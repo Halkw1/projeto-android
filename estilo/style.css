@@ -51,7 +51,7 @@ header {
 }
 
 header > p {
-    color: rgb(238, 14, 14);
+    color: rgb(238, 235, 235);
     font-family: var(--font-padrao);
     font-size: 1.2em;
     width: 500px;
