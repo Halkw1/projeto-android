@@ -60,6 +60,8 @@ header > p {
     padding-right: 10px;
     text-shadow: 3px 3px 0px black;
     padding-bottom: 30px;
+    min-width: 300px;
+   
     
 }
 
